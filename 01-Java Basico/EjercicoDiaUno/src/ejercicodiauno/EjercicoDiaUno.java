@@ -13,6 +13,8 @@ public class EjercicoDiaUno {
         boolean esVerdadero = true;
         String apellidos= "Cano Alarcon";
         
+        // Ejercicio Nº 2 - Tipos de Datos
+        
         //Impresion valores
          System.out.println("Dias de la semana: " + dias);
         System.out.println("Número decimal: " + numeroDecimal);
